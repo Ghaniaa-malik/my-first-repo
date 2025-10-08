@@ -1,1 +1,4 @@
-this line is from main branch
+<<<<<<< HEAD
+This line is from main branch
+This line is from conflict-branch
+>>>>>>> conflict-branch
